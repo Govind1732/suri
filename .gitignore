@@ -1,0 +1,13 @@
+.venv/
+node_modules/
+.env
+__pycache__/
+.pytest_cache/
+*.log
+checkpoints/
+playwright-report/
+test-results/
+GEMINI.md
+TASKS.md
+.gemini/
+docs/
