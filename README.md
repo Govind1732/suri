@@ -34,10 +34,10 @@ This repository is currently in Phase 1, building the core foundation:
 ## Quickstart
 
 ```bash
-cd /home/dev-user/Projects/suri-core
-python3 -m venv .venv
+cd suri
+uv venv
 source .venv/bin/activate
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 To start the FastAPI app:
