@@ -94,7 +94,5 @@ Then visit `http://127.0.0.1:8000`.
 - [ ] Tool dispatching
 
 ## Notes
-
-- Use `uv` if available for package management, but standard `pip` is also supported.
 - The architecture prioritizes incremental progress and low-overhead orchestration.
 - Avoid introducing heavy frameworks too early; focus on manual routing, queues, and event-driven design.
